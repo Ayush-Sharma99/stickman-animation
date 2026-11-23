@@ -1,0 +1,114 @@
+cue	img	text	pos	extra
+# Video 04: Why Every Fast-Food Drive-Thru Changed Its Menu (Stickman Systems 2.0, Slate Blueprint Look with Camera Motion)
+01.0	img/s01.jpg	12:15 PM THURSDAY	tr!	zoom:in
+02.0	img/s01.jpg	THE SAME ORDER	auto,0.25	
+03.0	img/s02.jpg	SPEAKER: $14.89	tl!	zoom:in
++03.2	elements/cut/01.png		auto,0.35	pop
+04.0	img/s02.jpg	APP: $5.99	tr!	zoom:in
++04.2	elements/cut/02.png		auto,0.35	pop
+05.0	card	+$8.90 PENALTY|FOR CASH	big	
+06.0	img/s03.jpg	INFLATION ILLUSION	auto,0.30	
++06.2	elements/cut/03.png		auto,0.30	slideL
+07.0	img/s03.jpg	A FALSE VICTORY	tr!	
+08.0	card	YOU ARE|BOTH WRONG.	big	
+09.0	card	NOT THE BEEF.|NOT THE INFLATION.	big	
+10.0	img/s04.jpg	THE DATA SURVEILLANCE	tr!	zoom:in
+11.0	card	THE FORENSIC SIMULATION|OF THE FAST-FOOD APP TRAP	big	
+12.0	img/s05.jpg	YEAR 2002	auto,0.25	zoom:out
+13.0	img/s05.jpg	THE 99¢ VALUE MENU	tr!	zoom:in
++13.2	elements/cut/04.png		auto,0.35	pop
+14.0	img/s05.jpg	1,200 CALORIES FOR $1	auto,0.30	
+15.0	card	THE MOST EFFICIENT|CALORIC EXCHANGE IN HISTORY	big	
+16.0	card	THE BURGER WAS|A LOSS LEADER.	big	
+17.0	img/s06.jpg	BURGER: -4¢ | SODA: +38¢ | FRIES: +42¢	tr!	zoom:in
++17.2	elements/cut/05.png		auto,0.30	rise
+18.0	card	THEN, THE MATH|COLLAPSED.	big	
+19.0	img/s07.jpg	BEEF +48% | OIL +62%	auto,0.30	zoom:in
++19.2	elements/cut/06.png		auto,0.30	pop
+20.0	img/s07.jpg	COST TO MAKE: $1.32	tr!	
+21.0	img/s08.jpg	DEATH OF THE DOLLAR MENU	auto,0.30	zoom:out
+22.0	card	FIRST PROBLEM:|THE STICKER SHOCK REBELLION	big	
+23.0	img/s09.jpg	TRAFFIC CRATERED -12%	auto,0.30	zoom:in
+24.0	card	FAST FOOD LOST ITS ONLY|SUPERPOWER: CHEAP CONVENIENCE	big	
+25.0	card	THE TWO-TIER|PRICING SYSTEM	big	
+26.0	img/s10.jpg	DIGITAL LCD BOARDS	auto,0.25	zoom:in
++26.2	elements/cut/07.png		auto,0.35	slideL
+27.0	img/s10.jpg	DYNAMIC ALGORITHMS	tr!	
+28.0	img/s11.jpg	QUEUE SURGE: +80¢	auto,0.30	zoom:in
+29.0	card	THE WALK-IN TAX	big	
+30.0	img/s12.jpg	THE $16 HOSTAGE PRICE	tr!	zoom:in
++30.2	elements/cut/08.png		auto,0.35	pop
+31.0	img/s12.jpg	FINANCIAL PAIN AT THE SPEAKER	auto,0.30	
+32.0	img/s13.jpg	FREE FRIES BAIT	auto,0.25	zoom:in
+33.0	card	THE THREE GEARS|OF THE APP TRAP	big	
+34.0	card	GEAR 1:|GEOFENCE & LOCATION BROKERAGE	big	
+35.0	img/s14.jpg	DAY 1: PERMISSION REQUEST	auto,0.25	
+36.0	img/s14.jpg	SWITCH TO ALWAYS ALLOW	tr!	zoom:in
++36.2	elements/cut/09.png		auto,0.35	pop
+37.0	card	NATE WANTS HOT FRIES.|NATE CLICKS ALWAYS ALLOW.	big	
+38.0	img/s15.jpg	24/7 SURVEILLANCE BUG	auto,0.30	zoom:in
++38.2	elements/cut/10.png		auto,0.30	rise
+39.0	img/s15.jpg	RADAR & BLUEDOT SDKs	tr!	
+40.0	img/s15.jpg	HOME | OFFICE | GYM | DAYCARE	auto,0.25	zoom:slow
+41.0	img/s16.jpg	COMPETITOR PROXIMITY TRIGGER	auto,0.30	zoom:in
+42.0	img/s17.jpg	WHOPPER DETOUR (2019)	auto,0.25	zoom:in
+43.0	img/s17.jpg	PREDATORY SPATIAL TRACKING	tr!	
+44.0	img/s18.jpg	SAFEGRAPH & KOCHAVA	auto,0.30	zoom:in
++44.2	elements/cut/11.png		auto,0.35	slideR
+45.0	img/s18.jpg	MONETIZING PHYSICAL COORDINATES	tr!	
+46.0	img/s19.jpg	RULE #1: NEVER ALWAYS ALLOW	tr!	zoom:in
+47.0	img/s19.jpg	CONSUMER DEFENSE PLAYBOOK	auto,0.30	
+48.0	card	I'LL JUST TURN IT OFF|AND TAKE THE $6 BURGER.	big	
+49.0	card	SECOND PROBLEM:|THE UNREGULATED SHADOW BANK	big	
+50.0	card	GEAR 2:|STORED-VALUE WALLET FLOAT	big	
+51.0	img/s20.jpg	RELOAD YOUR DIGITAL WALLET	auto,0.25	zoom:in
++51.2	elements/cut/12.png		auto,0.35	slideL
+52.0	img/s20.jpg	PRE-SET AMOUNTS: $10 | $25 | $50	tr!	
+53.0	img/s21.jpg	UNSPENT BALANCE: $4.01	auto,0.30	
++53.2	elements/cut/13.png		auto,0.30	pop
+54.0	img/s21.jpg	CORPORATE TREASURY POOL	tr!	zoom:in
+55.0	img/s21.jpg	0% INTEREST LOAN -> T-BILLS	auto,0.30	
+56.0	img/s22.jpg	STARBUCKS: $1.6 BILLION FLOAT	tr!	zoom:in
++56.2	elements/cut/14.png		auto,0.35	slideR
+57.0	img/s22.jpg	LARGER THAN 85% OF US BANKS	auto,0.30	
+58.0	card	TECHNICAL TERM:|BREAKAGE	big	
+59.0	img/s23.jpg	18 MONTHS DORMANCY	auto,0.30	zoom:in
+60.0	img/s23.jpg	100% MARGIN REVENUE	tr!	
++60.2	elements/cut/15.png		auto,0.35	pop
+61.0	card	HUNDREDS OF MILLIONS|IN PURE BREAKAGE	big	
+62.0	img/s24.jpg	RULE #2: NEVER LOAD CLOSED WALLETS	tr!	zoom:in
+63.0	card	GEAR 3:|THE FREQUENCY MULTIPLIER	big	
+64.0	img/s25.jpg	BASELINE: 2 VISITS/MO = $336/YR	auto,0.25	
+65.0	img/s25.jpg	70 POINTS TO GOLD TIER	tr!	zoom:in
++65.2	elements/cut/16.png		auto,0.30	slideL
+66.0	img/s25.jpg	FLASH DEAL: 47 MINS	auto,0.30	
++66.2	elements/cut/17.png		auto,0.30	pop
+67.0	img/s26.jpg	CASINO OPERANT CONDITIONING	tr!	zoom:in
+68.0	card	VISIT FREQUENCY|INCREASES BY 2.8X	big	
+69.0	img/s27.jpg	5.6 VISITS PER MONTH	auto,0.30	zoom:in
+70.0	img/s27.jpg	5.6 x $6 = $33.60/MO	tr!	
+71.0	img/s27.jpg	ANNUAL SPEND: $403	auto,0.25	
+72.0	card	+20% MORE TOTAL REVENUE|EXTRACTED FROM NATE	big	
+73.0	card	RULE #3:|CALCULATE ANNUAL OUTLAY	big	
+74.0	card	THIRD PROBLEM:|THE PEOPLE COOKING THE FOOD	big	
+75.0	img/s28.jpg	FRANCHISE COLLAPSE	auto,0.25	
+76.0	img/s28.jpg	FRANCHISEE REBELLION	tr!	zoom:in
++76.2	elements/cut/18.png		auto,0.35	pop
+77.0	card	THE PREDATORY FRANCHISE AGREEMENT	big	
+78.0	img/s29.jpg	CORPORATE TAKES 9% OFF THE TOP	tr!	zoom:in
+79.0	img/s30.jpg	FRANCHISEE ABSORBS 100% OF COST	auto,0.30	
+80.0	img/s30.jpg	NET PROFIT: 12 CENTS	tr!	zoom:in
+81.0	card	FRANCHISEES LOSE MONEY|ON EVERY MOBILE ORDER	big	
+82.0	img/s12.jpg	DRIVE-THRU PRICES SKYROCKET	auto,0.30	zoom:in
+83.0	card	THE $16 MENU IS A DEFENSIVE WALL	big	
+84.0	img/s12.jpg	THE TWO-TIER PENALTY	tr!	
+85.0	img/s31.jpg	THE CONSUMER DEFENSE	auto,0.30	zoom:in
+86.0	card	THREE FORENSIC|COUNTER-RULES	big	
+87.0	img/s32.jpg	COUNTER-RULE #1: BURNER PROFILE	tr!	zoom:in
++87.2	elements/cut/19.png		auto,0.30	slideL
+88.0	img/s32.jpg	COUNTER-RULE #2: LOSS-LEADER SNIPER	auto,0.30	
+89.0	img/s33.jpg	COUNTER-RULE #3: LOCAL DINER PARITY	tr!	zoom:in
++89.2	elements/cut/20.png		auto,0.35	rise
+90.0	img/s34.jpg	HOW WOULD YOU BEAT THIS SYSTEM?	tr!	zoom:in
+91.0	img/s34.jpg	TESTING TOP 5 VIEWER PLANS	auto,0.30	
+92.0	card	NEXT: HOW TICKETMASTER GETS PAID|TO BE HATED (EPISODE #05)	big	

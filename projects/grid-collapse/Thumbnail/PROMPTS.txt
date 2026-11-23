@@ -1,0 +1,29 @@
+# STICKMAN SYSTEMS: EPISODE #07 THUMBNAIL SUITE (3 ARCHETYPES)
+Episode Title: Power Grid Collapse: 30 Days Locked in a US Suburb When 60.00 Hz Fails (Day 1 to Day 30)
+
+--------------------------------------------------------------------------------
+ARCHETYPE A: Signature Dark-Slate X-Ray Cutaway (Classic Stickman Outlier)
+--------------------------------------------------------------------------------
+PROMPT:
+A bold 2D vector stickman explainer illustration on a solid dark slate blueprint background (#0F172A). In the center foreground, a shocked stickman character (Arthur) stands beside a massive glowing industrial frequency meter dial. The needle is slipping from normal green 60.00 Hz down into glowing crimson red 59.30 Hz with warning sparks. In the background cutaway, a cross-section of a suburban town: overhead power lines crackling, streetlights dying, a municipal water tower draining to empty red 0 PSI, and silent dark homes. Clean white and electric cyan vector lines (#38BDF8), glowing emerald green (#10B981) for intact circuits, crimson red (#EF4444) for collapsing grid infrastructure. A large high-contrast yellow badge with a red arrow pointing at the meter dial reading: "THE 59.3 HZ TRAP ->". Minimalist flat vector, no 3D rendering, no photorealism, high visual impact, 16:9.
+
+--------------------------------------------------------------------------------
+ARCHETYPE B: "DAY 1 | DAY 30" Vertical Split-Screen (Nobody Gets In Cadence)
+--------------------------------------------------------------------------------
+PROMPT:
+A high-contrast 2D minimalist vector split-screen illustration on dark slate (#0F172A), divided down the exact vertical center by a bold neon red laser line.
+LEFT SIDE ("DAY 1"): Stickman Arthur in a modern living room looking mildly annoyed as living room lamps flicker off, holding a glass of clean running tap water, with a bold green label above: "DAY 1: JUST A STORM".
+RIGHT SIDE ("DAY 30"): Stickman Arthur standing outside in a completely dark, silent suburban neighborhood under pitch black sky; kitchen faucet coughing red dust (0 PSI), a local gas station with chained black pumps, and a massive substation transformer smoking in ruin; bold red label above: "DAY 30: 0 PSI WATER".
+Clean white stick figures, electric cyan blueprints (#38BDF8), vivid contrast, bold typography badges, flat 2D graphic novel style, 16:9.
+
+--------------------------------------------------------------------------------
+ARCHETYPE C: "INFRASTRUCTURE TRAP ->" Outlier Swap Format (FunNotSoFun Cadence)
+--------------------------------------------------------------------------------
+PROMPT:
+A clean, high-contrast 2D vector infographic illustration on dark slate blueprint (#0F172A). In the center, a towering 500-kilovolt transmission tower snapping in half, with glowing severed power lines dropping onto a suburban grid map. Stickman Arthur frantically turning a dry water faucet on the left, while stickman Nate attempts to swipe a credit card at a completely dead, black gas station pump on the right. In the center, a giant glowing warning gauge dropping into the red danger zone. A prominent bright yellow rectangular badge with a bold crimson directional arrow pointing directly at the snapped transmission lines: "72 HOURS TO 0 PSI ->". Crisp white vector outlines, electric cyan schematics (#38BDF8), vivid crimson accents (#EF4444), flat vector explainer art, 16:9.
+
+--------------------------------------------------------------------------------
+0:00–0:08 THUMBNAIL-SYNC HOOK CHECK:
+Line 01 explicitly syncs with Thumbnail Archetypes:
+"At exactly 4:12 PM, every digital clock in your house blinks out, your refrigerator humming stops, and your neighborhood plunges into absolute silence. You assume a tree branch hit a local substation down the road. But thirty miles away at the regional transmission center, a digital frequency meter just slipped below fifty-nine point three zero Hertz."
+Matches the glowing 59.30 Hz meter dial and dark suburban blackout seen on screen within the first 4 seconds.

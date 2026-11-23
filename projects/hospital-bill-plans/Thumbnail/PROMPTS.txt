@@ -1,0 +1,29 @@
+# STICKMAN SYSTEMS: EPISODE #08 THUMBNAIL SUITE (3 ARCHETYPES)
+Episode Title: You Owe $10,000 on a Fake Hospital Bill. We Tested 5 Viewer Plans to Erase It Legally.
+
+--------------------------------------------------------------------------------
+ARCHETYPE A: Signature Dark-Slate X-Ray Cutaway (Classic Stickman Outlier)
+--------------------------------------------------------------------------------
+PROMPT:
+A bold 2D minimalist vector stickman explainer illustration on a solid dark slate blueprint background (#0F172A). In the center foreground, a shocked stickman protagonist (Arthur) holds an oversized glowing medical bill invoice showing a massive balance of "$10,850". An x-ray internal cutaway inside the invoice paper reveals the predatory mechanisms: glowing crimson red text "CPT 99285 UPCODING: +$4,200", "$45 TYLENOL", and at the very bottom a glowing emerald green clause "IRS SECTION 501(r): $0.00". In the background, a predatory silhouette hospital billing executive in a suit watching from behind a formica window. Clean white and electric cyan vector lines (#38BDF8), vivid emerald green (#10B981) for erased balance, crimson red (#EF4444) for billing traps. High-contrast yellow badge with a bold crimson directional arrow pointing at the hidden clause: "THE $0 LOOPHOLE ->". Minimalist flat vector, zero 3D shading, zero photorealism, high visual impact, 16:9.
+
+--------------------------------------------------------------------------------
+ARCHETYPE B: "PLAN A | PLAN E" Vertical Split-Screen (Nobody Gets In Cadence)
+--------------------------------------------------------------------------------
+PROMPT:
+A high-contrast 2D minimalist vector split-screen illustration on dark slate blueprint (#0F172A), divided down the center by a bold neon cyan laser line.
+LEFT SIDE ("PLAN A"): Stickman Arthur chained at the ankle to a giant towering stack of red collection notices, handing a $50 bill to a smirking debt collector stickman; bold red title above: "PLAN A: 20-YEAR DEBT TRAP".
+RIGHT SIDE ("PLAN E"): Stickman Arthur standing tall, sliding a certified legal paper stamped "IRS 501(r) CHARITY CARE" across the counter; the hospital billing clerk looks stunned as the cash register screen flips to glowing green "$0.00 BALANCE"; bold green title above: "PLAN E: ERASED TO $0".
+Clean white stick figures, electric cyan schematics (#38BDF8), vivid contrast, bold typography badges, flat 2D graphic novel style, 16:9.
+
+--------------------------------------------------------------------------------
+ARCHETYPE C: "HOSPITAL SCAM ->" Outlier Swap Format (FunNotSoFun Cadence)
+--------------------------------------------------------------------------------
+PROMPT:
+A clean, high-contrast 2D vector infographic illustration on dark slate blueprint (#0F172A). In the center, a gigantic mechanical hydraulic vice labeled "NON-PROFIT HOSPITAL BILLING" crushing a stickman family. Sliding out of the vice is a four-foot-long paper hospital invoice showing inflated Chargemaster line items: "$1,200 Saline Bag, $3,800 Bed Fee". Stickman Arthur stands on the right, pointing a glowing blue legal seal labeled "SECTION 501(r)" like a shield, causing the hydraulic vice to crack and shatter. High-contrast bright yellow badge with a bold crimson arrow: "THE 501(r) SHIELD ->". Crisp white vector outlines, electric cyan schematics (#38BDF8), vivid crimson accents (#EF4444), flat vector explainer art, 16:9.
+
+--------------------------------------------------------------------------------
+0:00–0:08 THUMBNAIL-SYNC HOOK CHECK:
+Line 01 explicitly syncs with Thumbnail Archetypes:
+"You open your mailbox on a Tuesday afternoon and find a crisp white envelope from the hospital billing department stamped with a final balance of ten thousand eight hundred and fifty dollars."
+Matches the oversized $10,850 invoice and shocked Arthur seen on screen within the first 4 seconds.

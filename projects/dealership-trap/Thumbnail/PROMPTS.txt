@@ -1,0 +1,13 @@
+# STICKMAN SYSTEMS EPISODE #06: THUMBNAIL PROMPTS (UPGRADED 3-ARCHETYPE PROTOCOL)
+
+## Archetype A: Signature Dark-Slate X-Ray Cutaway (Classic Stickman Outlier)
+Prompt:
+minimalist vector blueprint illustration, dark slate navy background #0F172A, crisp cyan-blue #38BDF8 line-art stickman Arthur sitting at a formica dealership desk, holding a leather briefcase overflowing with green cash. Across the desk, a predatory silhouette salesman in a polo shirt slides a glowing four-square paper worksheet forward. Inside Arthur's briefcase glowing red text reads "CASH: UNPROFITABLE", while inside the salesman's glowing computer screen green text reads "LOAN KICKBACK: +$4,200". Bold technical HUD gauges, high contrast, clean vector lines, 2D infographic aesthetic, 16:9 aspect ratio, 8k resolution.
+
+## Archetype B: "CASH BUYER | 72-MONTH LOAN" Vertical Split-Screen (Nobody Gets In Cadence)
+Prompt:
+minimalist vector split-screen infographic, solid slate background #0F172A. A bold vertical laser line splits the frame. Left side: Arthur holding a briefcase with bold white text "I'LL PAY CASH: $30,000", salesman scowling and crossing arms with red badge "REJECTED / $0 PROFIT". Right side: Arthur trapped in a windowless room signing a 72-month contract, smiling finance manager rubbing hands with glowing lime green text "FINANCED: $42,800 (+2% RESERVE KICKBACK)". Ultra-clean line art, high contrast cyan #38BDF8 and crimson #EF4444 highlights, 16:9 aspect ratio.
+
+## Archetype C: "DEALER TRAP ->" Outlier Swap Format (FunNotSoFun / monke High-Contrast Cadence)
+Prompt:
+minimalist 2D vector explainer graphic, dark slate blue backdrop #0F172A. Centered is a sleek new SUV with a glowing factory MSRP window sticker of "$28,500". Above it, a giant predatory mechanical clamp labeled "F&I FINANCE OFFICE" is crushing the car, squeezing out a towering stack of bloated fee sheets labeled "DOC FEE $899, ETCHING $499, GAP $1,200, RATE MARKUP $3,400". Next to it, stickman Arthur looking panicked with a bright yellow diagonal arrow and badge reading "THE FAKE PRICE ->". Vibrant cyan #38BDF8 outlines, crisp vector infographics, bold composition, 16:9 aspect ratio.

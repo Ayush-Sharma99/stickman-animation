@@ -1,0 +1,113 @@
+cue	img	text	pos	motion
+01.0	img/s01.jpg	1:00 PM | THE CASH ORDEAL	tl!	zoom:in
+02.0	img/s01.jpg	$30,000 CASHIER'S CHECK	tr!	zoom:slow
+03.0	img/s02.jpg	MSRP: $28,500	tl!	zoom:in
+04.0	img/s03.jpg			zoom:slow
++04.0	elements/cut/01.png		0.82,0.25,0.30	pop
+05.0	img/s04.jpg	"I'M PAYING FULL CASH"	tl!	zoom:in
+06.0	img/s04.jpg			zoom:slow
++06.0	elements/cut/02.png		0.18,0.25,0.30	slideR
+07.0	img/s04.jpg	THE SMILE VANISHES	tr!	static
+08.0	img/s05.jpg	RETAIL: CASH IS KING	tl!	zoom:in
+09.0	img/s05.jpg	DEALER: CASH IS UNPROFITABLE	tr!	zoom:out
+10.0	img/s06.jpg	"LET ME TALK TO MY MANAGER"	tl!	zoom:in
+11.0	img/s06.jpg			zoom:slow
++11.0	elements/cut/05.png		0.18,0.25,0.30	pop
+12.0	img/s07.jpg	THE 4-HOUR FINANCE TRAP	tr!	zoom:in
+13.0	img/s08.jpg	THE DEATH OF THE OLD MODEL	tl!	zoom:slow
+14.0	img/s08.jpg	OLD: $3,000 METAL PROFIT	tl!	zoom:in
+15.0	img/s09.jpg	THE INTERNET SHATTERED SECRECY	tr!	zoom:slow
+16.0	img/s10.jpg	NADA DATA: 1-2% NET MARGIN	tl!	zoom:in
+17.0	img/s10.jpg			zoom:slow
++17.0	elements/cut/03.png		0.18,0.25,0.30	rise
+18.0	img/s11.jpg	WHERE IS THE PROFIT MADE?	tr!	zoom:in
+19.0	img/s11.jpg	THE F&I BACK OFFICE	tr!	zoom:slow
+20.0	img/s11.jpg	SUBPRIME LOAN BROKERAGE	tr!	zoom:out
+21.0	img/s12.jpg	PROBLEM #1: THE FOUR-SQUARE	tl!	zoom:in
+22.0	img/s12.jpg	1:45 PM | THE WORKSHEET	tl!	zoom:slow
+23.0	img/s13.jpg			zoom:in
++23.0	elements/cut/04.png		0.82,0.25,0.30	pop
+24.0	img/s13.jpg	COGNITIVE OVERLOAD MECHANISM	tr!	zoom:slow
+25.0	img/s14.jpg	THE MONTHLY PAYMENT TRAP	tl!	zoom:in
+26.0	img/s14.jpg	MANIPULATING THE FOUR BOXES	tl!	zoom:slow
+27.0	img/s15.jpg	STRETCHING THE TERM: 72 MONTHS	tr!	zoom:in
+28.0	img/s15.jpg	CONCEALING $3,500 IN FEES	tr!	zoom:slow
+29.0	img/s15.jpg	"PAYMENT PACKING" DECEPTION	tr!	zoom:out
+30.0	img/s16.jpg	PROBLEM #2: FINANCE RESERVE	tl!	zoom:in
+31.0	img/s16.jpg			zoom:slow
++31.0	elements/cut/06.png		0.18,0.25,0.30	pop
+32.0	img/s17.jpg	WHOLESALE BUY RATE: 5.9%	tr!	zoom:in
+33.0	img/s17.jpg	CONTRACT RATE: 7.9%	tr!	zoom:slow
+34.0	img/s17.jpg	THE HIDDEN 2.0% SPREAD	tr!	zoom:in
+35.0	img/s17.jpg			zoom:slow
++35.0	elements/cut/07.png		0.82,0.25,0.30	slideL
+36.0	img/s18.jpg	CFPB STUDY: RATE MARKUP	tl!	zoom:in
+37.0	img/s18.jpg	+$2,800 IN HIDDEN INTEREST	tl!	zoom:slow
+38.0	img/s18.jpg	THE SECRET KICKBACK SPLIT	tl!	zoom:in
+39.0	img/s18.jpg			zoom:slow
++39.0	elements/cut/08.png		0.18,0.25,0.30	pop
+40.0	img/s18.jpg	CASH BUYER = $0 KICKBACK	tl!	zoom:out
+41.0	img/s19.jpg	THE $1,500 "FINANCE REBATE" TRAP	tr!	zoom:in
+42.0	img/s19.jpg	REBATE BAIT | RATE HOOK	tr!	zoom:slow
+43.0	img/s19.jpg	2:45 PM | HOUR TWO WAITING	tr!	zoom:in
+44.0	img/s19.jpg	PROBLEM #3: THE FATIGUE ROOM	tr!	zoom:slow
+45.0	img/s20.jpg	ENGINEERED DEHYDRATION & EXHAUSTION	tl!	zoom:in
+46.0	img/s20.jpg	INSIDE THE F&I CLOSING OFFICE	tl!	zoom:slow
+47.0	img/s21.jpg			zoom:in
++47.0	elements/cut/09.png		0.82,0.25,0.30	pop
+48.0	img/s21.jpg	PLATINUM · GOLD · BASIC	tr!	zoom:slow
+49.0	img/s21.jpg	THE LAMINATED MENU TRAP	tr!	zoom:out
+50.0	img/s22.jpg	ADD-ON #1: CERAMIC PAINT WAX	tl!	zoom:in
+51.0	img/s22.jpg			zoom:slow
++51.0	elements/cut/10.png		0.18,0.25,0.30	rise
+52.0	img/s22.jpg	4,000% RETAIL MARKUP	tl!	zoom:in
+53.0	img/s23.jpg	ADD-ON #2: WINDOW VIN ETCHING	tr!	zoom:slow
+54.0	img/s23.jpg			zoom:in
++54.0	elements/cut/11.png		0.82,0.25,0.30	pop
+55.0	img/s23.jpg	$12 KIT CHARGED AT $499	tr!	zoom:slow
+56.0	img/s24.jpg	ADD-ON #3: GAP INSURANCE	tl!	zoom:in
+57.0	img/s24.jpg			zoom:slow
++57.0	elements/cut/12.png		0.18,0.25,0.30	pop
+58.0	img/s25.jpg	"I DECLINE ALL ADD-ONS"	tr!	zoom:in
+59.0	img/s25.jpg	"THAT VOIDS YOUR LOAN APPROVAL"	tr!	zoom:slow
+60.0	img/s25.jpg	ILLEGAL TYING UNDER TILA	tr!	zoom:out
+61.0	img/s26.jpg	CONSUMER DEFENSE PLAYBOOK	tl!	zoom:in
+62.0	img/s26.jpg			zoom:slow
++62.0	elements/cut/18.png		0.18,0.25,0.30	pop
+63.0	img/s26.jpg	LINK IN PINNED COMMENT	tl!	zoom:out
+64.0	img/s27.jpg	ARTHUR'S LIVE WALLET TRACKER	tr!	zoom:in
+65.0	img/s27.jpg	MSRP $28,500 -> INFLATED $36,800	tr!	zoom:slow
+66.0	img/s27.jpg			zoom:in
++66.0	elements/cut/15.png		0.82,0.25,0.30	rise
+67.0	img/s28.jpg	WHY CAN'T YOU BUY DIRECT?	tl!	zoom:slow
+68.0	img/s28.jpg	THE STATE FRANCHISE FORTRESS	tl!	zoom:in
+69.0	img/s28.jpg	$100M+ IN LOBBYING CASH	tl!	zoom:slow
+70.0	img/s28.jpg			zoom:out
++70.0	elements/cut/16.png		0.18,0.25,0.30	pop
+71.0	img/s29.jpg	HOW TO BEAT THE SYSTEM	tr!	zoom:in
+72.0	img/s29.jpg	RULE #1: PRE-APPROVED FINANCING	tr!	zoom:slow
+73.0	img/s29.jpg			zoom:in
++73.0	elements/cut/13.png		0.82,0.25,0.30	pop
+74.0	img/s29.jpg	KILL THE 2% RATE MARKUP	tr!	zoom:slow
+75.0	img/s30.jpg	RULE #2: OUT-THE-DOOR (OTD) BIDS	tl!	zoom:in
+76.0	img/s30.jpg			zoom:slow
++76.0	elements/cut/17.png		0.18,0.25,0.30	slideR
+77.0	img/s30.jpg	COMPETING EMAIL FLEET QUOTES	tl!	zoom:out
+78.0	img/s31.jpg	RULE #3: 120-MIN HARD WALK-OUT	tr!	zoom:in
+79.0	img/s31.jpg			zoom:slow
++79.0	elements/cut/14.png		0.82,0.25,0.30	pop
+80.0	img/s31.jpg	4:45 PM | WALKING TO THE CAR	tr!	zoom:in
+81.0	img/s32.jpg	MANAGER RUNS OUT: FEES STRIPPED	tl!	zoom:slow
+82.0	img/s32.jpg			zoom:in
++82.0	elements/cut/19.png		0.18,0.25,0.30	rise
+83.0	img/s33.jpg	TACTICAL CAR BUYERS	tr!	zoom:slow
+84.0	img/s33.jpg	WHAT WAS YOUR CRAZIEST FEE?	tr!	zoom:in
+85.0	img/s33.jpg	HOW DID YOU BEAT THEM?	tr!	zoom:slow
+86.0	img/s33.jpg	TOP 5 PLANS TESTED IN SEQUEL	tr!	zoom:out
+87.0	img/s34.jpg	THE INFRASTRUCTURE FRAGILITY	tl!	zoom:in
+88.0	img/s34.jpg	SUBURB GRID BELOW 60.00 HZ	tl!	zoom:slow
+89.0	img/s34.jpg			zoom:in
++89.0	elements/cut/20.png		0.18,0.25,0.30	pop
+90.0	img/s34.jpg	DAY 1 WATER · DAY 3 GAS · DAY 5 BLACK-START	tl!	zoom:slow
+91.0	img/s34.jpg	EPISODE #07: GRID COLLAPSE	tl!	zoom:out
+92.0	img/s34.jpg	SEE YOU NEXT WEEK	tl!	static

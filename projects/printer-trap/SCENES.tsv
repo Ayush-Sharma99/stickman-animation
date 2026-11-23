@@ -1,0 +1,115 @@
+cue	img	text	pos	extra
+# Video 01: The Printer Trap (Stickman Systems, Slate Blueprint Look)
+01.0	img/s01.jpg			
+01.8	img/s02.jpg	ERROR: OUT OF CYAN	tr!	
++01.12	elements/cut/04.png		auto,0.30	pop
+02.0	card	YOU DO NOT|NEED CYAN.	big	
+03.0	img/s03.jpg			
+04.0	img/s04.jpg	RESUME	auto,0.25	
++04.8	elements/cut/07.png		0.5,0.5,0.40	pop
+05.0	img/s05.jpg			
++05.4	elements/cut/20.png		auto,0.32	pop
+05.14	img/s06.jpg	HOSTAGE FEE: $32	tr!	
++05.18	elements/cut/08.png		0.75,0.5,0.35	pop
+06.0	img/s07.jpg	30% INK REMAINING	auto,0.30	
++06.6	elements/cut/02.png		0.5,0.5,0.45	pop
+07.0	card	THE MACHINE|IS NOT BROKEN.	big	
+08.0	img/s08.jpg	4-CENT CHIP	auto,0.25	
++08.4	elements/cut/01.png		0.5,0.5,0.50	pop
+09.0	card	ACT I: THE SURFACE ILLUSION	big	
+10.0	img/s09.jpg	RETAIL MODEL	auto,0.25	
+11.0	card	INKJET PRINTERS DO NOT|OPERATE IN THAT REALITY.	big	
+12.0	img/s10.jpg	SALE: $49.00	tr!	
+13.0	img/s11.jpg	TRUE COST: $85.00	tr!	
+14.0	img/s12.jpg	CASH LOSS: -$36.00	auto,0.30	
+15.0	card	RAZOR & BLADE MODEL	big	
+16.0	img/s13.jpg	THE HOME TOLLBOOTH	tr!	
+17.0	card	PHARMACEUTICAL|PRICE GOUGING	big	
+18.0	img/s14.jpg	12 mL = $30.00	auto,0.30	
++18.4	elements/cut/10.png		0.5,0.5,0.40	pop
+19.0	img/s15.jpg	$9,600 / GALLON	auto,0.35	
+20.0	img/s16.jpg	CRUDE OIL: $2/GAL	auto,0.25	
+21.0	img/s16.jpg	CHAMPAGNE: $850/GAL	auto,0.25	
++21.4	elements/cut/11.png		auto,0.30	pop
+22.0	img/s16.jpg	BLOOD: $1,500/GAL	auto,0.25	
++22.4	elements/cut/12.png		auto,0.30	pop
+23.0	img/s16.jpg	PRINTER INK: $9,600/GAL	tr!	
+24.0	img/s17.jpg	90% WATER | 8% GLYCERIN	auto,0.28	
+25.0	img/s17.jpg	RAW COST: $0.18	tr!	
+26.0	card	99% PROFIT MARGIN	big	
+27.0	img/s18.jpg			
+28.0	img/s19.jpg	GEAR 1: SPITTING SPONGE	auto,0.30	
+29.0	img/s20.jpg			
+30.0	img/s20.jpg	AIR EVAPORATES SOLVENT	auto,0.25	
+31.0	img/s20.jpg	NOZZLE CLOGGED	auto,0.25	
+32.0	card	MAINTENANCE PURGE CYCLE	big	
+33.0	img/s21.jpg			
+34.0	img/s21.jpg	PURGE FIRING	auto,0.25	
+35.0	card	IT DOESN'T PRINT.|IT JUST SPITS.	big	
+36.0	img/s22.jpg	WASTE INK PAD	auto,0.30	
++36.6	elements/cut/09.png		0.5,0.5,0.45	pop
+37.0	img/s23.jpg	5% PAPER / 95% SPONGE	auto,0.30	
+38.0	img/s24.jpg	DRAINED IN THE DARK	tr!	
+39.0	img/s25.jpg	BALLPOINT PEN	auto,0.25	
+40.0	card	THE PRINTER DOES NOT|KNOW INK LEVEL.	big	
+41.0	img/s26.jpg	NO SENSORS INSIDE	auto,0.30	
+42.0	img/s27.jpg	$0.04 EEPROM CHIP	auto,0.30	
++42.6	elements/cut/01.png		0.5,0.5,0.45	pop
+43.0	img/s27.jpg	PAGE COUNTDOWN	auto,0.25	
+44.0	img/s27.jpg	PULSE SUBTRACTION	auto,0.25	
+45.0	card	IT DOES NOT MEASURE INK.|IT ESTIMATES.	big	
+46.0	card	SAFETY MARGIN TRAP	big	
+47.0	img/s28.jpg	20% TO 38% REMAINING	auto,0.30	
+48.0	card	ELECTRONIC BURNOUT	big	
+49.0	img/s29.jpg	ACCESS DENIED: SERIAL USED	tr!	
+50.0	img/s30.jpg	THIRD-PARTY INK: $6	auto,0.30	
+51.0	card	GEAR 3: THE DRM FIREWALL	big	
+52.0	card	CYBERSECURITY CONTRACTORS	big	
+53.0	card	PATENTED GUIDE RAILS	big	
+54.0	card	CRYPTOGRAPHIC HANDSHAKE	big	
+55.0	card	UNRECOGNIZED CONSUMABLE	big	
+56.0	card	SILENT WI-FI UPDATES	big	
+57.0	img/s31.jpg	MARCH 2023 UPDATE	tr!	
+58.0	img/s32.jpg	NON-HP CHIP DETECTED	tr!	
+59.0	img/s31.jpg	REMOTE KEY REVOCATION	auto,0.30	
+60.0	card	RANSOMWARE TACTICS	big	
+61.0	card	THE SUBSCRIPTION TRAP	big	
+62.0	card	$5 A MONTH FOR 50 PAGES	big	
+63.0	card	AUTOMATED REPLACEMENTS	big	
+64.0	card	UNTIL YOU CANCEL...	big	
+65.0	img/s33.jpg	SUBSCRIPTION REVOKED	tr!	
+66.0	img/s33.jpg	CARTRIDGE LOCKED	auto,0.30	
++66.4	elements/cut/13.png		0.5,0.5,0.40	pop
+67.0	img/s34.jpg	REMOTELY BRICKED	tr!	
+68.0	card	ACT III: THE TIME BOMB	big	
+69.0	card	FOUR YEARS LATER...	big	
+70.0	img/s35.jpg	LIGHTS FLASHING	auto,0.25	
+71.0	img/s35.jpg	ERROR E-11: END OF LIFE	tr!	
+72.0	card	WASTE INK PAD COUNTER	big	
+73.0	img/s22.jpg	SATURATED FELT SLUDGE	auto,0.30	
+74.0	card	MOTHERBOARD PULSE COUNTER	big	
+75.0	card	15,000 CYCLE SHUTDOWN	big	
+76.0	img/s36.jpg	SCANNER LOCKED DOWN	tr!	
+77.0	card	OFFICIAL ADVICE: RECYCLE	big	
+78.0	img/s37.jpg	LANDFILL MOUNTAIN	auto,0.30	
+79.0	card	PLANNED OBSOLESCENCE	big	
+80.0	img/s38.jpg	FRENCH CRIMINAL INQUIRY	auto,0.30	
++80.6	elements/cut/19.png		0.5,0.5,0.40	pop
+81.0	card	ACT IV: THE ESCAPE HATCH	big	
+82.0	card	HOW DO YOU ESCAPE?	big	
+83.0	card	NO SYRINGES. NO HACKS.	big	
+84.0	card	STOP BUYING LIQUID.	big	
++84.2	elements/cut/17.png		0.5,0.5,0.45	pop
+85.0	card	LIQUID EVAPORATES.|POWDER DOES NOT.	big	
+86.0	img/s40.jpg	MONOCHROME LASER	tr!	
++86.4	elements/cut/15.png		0.75,0.5,0.40	pop
+87.0	img/s40.jpg	$140 HARDWARE COST	auto,0.25	
+88.0	img/s40.jpg	DRY CARBON POLYMER TONER	auto,0.28	
++88.4	elements/cut/16.png		auto,0.30	pop
+89.0	card	NO EVAPORATION.|NO CLOGGING.	big	
+90.0	img/s41.jpg	3 YEARS IN A CLOSET	tr!	
+91.0	img/s41.jpg	1.5 CENTS PER PAGE	auto,0.30	
+92.0	card	THE INK RACKET IS BROKEN.	big	
+93.0	img/s41.jpg	CHIP LOSES ALL POWER	auto,0.25	
+94.0	img/s42.jpg	NEXT: GROCERY STORE MAZES	tr!	
+95.0	card	SUBSCRIBE TO STICKMAN SYSTEMS	big	

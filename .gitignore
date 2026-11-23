@@ -1,0 +1,22 @@
+# Credentials and secrets
+kaggle.json
+*.key
+*.token
+.env
+
+# Large render deliverables (uploaded to GitHub Releases)
+*.mp4
+*.wav
+
+# Intermediate pipeline cache and render frames
+frames/
+takes/
+test_scenes/
+__pycache__/
+*.py[cod]
+
+# OS and temporary files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp

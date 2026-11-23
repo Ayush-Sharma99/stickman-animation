@@ -1,0 +1,94 @@
+id	start	dur	text
+01	0.0	11.869	You open your mailbox on a Tuesday afternoon and find a crisp white envelope from the hospital billing department stamped with a final balance of ten thousand eight hundred and fifty dollars.
+02	12.619	10.445	Three weeks ago, you spent three hours in the emergency room for a twisted ankle. You had a ten-minute consultation, two generic Tylenol pills, and an x-ray.
+03	23.814	11.621	You stare at the invoice in total disbelief: ten thousand eight hundred and fifty dollars. Your insurance paid their portion, leaving you with an astronomical out-of-pocket balance.
+04	36.185	11.43	Your impulsive friend Nate leans over your shoulder and shakes his head: 'Just send them fifty bucks a month, Arthur! As long as you pay something, they legally cannot send you to collections!'
+05	48.364	9.172	That single piece of common-sense advice is an urban legend that has ruined the credit scores and savings of millions of American families.
+06	58.286	11.668	We asked thousands of viewers on this channel how they deal with predatory medical debt. Today, we are putting five real viewer plans to the test in a forensic economic simulation.
+07	70.704	10.876	We will test which plans backfire, which ones land you in civil court with frozen bank accounts, and which one wipes a ten-thousand-dollar balance to zero dollars legally.
+08	82.331	7.13	Welcome to Episode Number Eight of Stickman Systems: Testing Five Viewer Plans to Erase a Fake Hospital Bill.
+09	90.21	4.11	Let us begin with Viewer Plan Number One: The Minimum Payment Trap.
+10	95.07	9.343	Nate believes that sending twenty-five or fifty dollars a month creates an unspoken legal ceasefire between you and the hospital billing department.
+11	105.163	9.861	In reality, hospital billing departments operate on automated Revenue Cycle Management software with strict ninety-day account aging parameters.
+12	115.774	11.046	There is no federal or state law anywhere in the United States requiring a healthcare provider to accept partial payments unless you have an executed written payment agreement.
+13	127.57	13.518	When Arthur sends his fifty-dollar check on Day 30, the hospital billing computer cashes the check, applies forty dollars to administrative processing fees, and marks the account sixty days delinquent.
+14	141.838	13.362	At Day 90, the algorithm automatically flags the account as non-compliant. The hospital charges off the remaining ten thousand eight hundred dollars and bundles Arthur's file into a debt portfolio.
+15	155.95	8.703	That portfolio is sold to a third-party junk debt collector for three cents on the dollar—approximately three hundred and twenty dollars.
+16	165.402	9.624	The debt collector now hounds Arthur with aggressive phone calls, demanding the full ten thousand dollars plus accrued interest and collection penalties.
+17	175.776	7.612	Even worse: by mailing that fifty-dollar check, Arthur triggered a dangerous legal doctrine known as Acknowledgment of Debt.
+18	184.139	12.576	Under common law, making a voluntary partial payment resets the state statute of limitations and legally waives your right to claim the underlying invoice was fraudulent or incorrect.
+19	197.464	12.559	This unlocks Rule Number One of Medical Debt Defense: Never send a single dollar on an unverified hospital bill. A partial payment legally affirms the entire fraudulent balance.
+20	210.773	5.675	Now let us test Viewer Plan Number Two: The Zero-Percent APR Credit Card Transfer.
+21	217.198	11.762	Viewer Marcus writes: 'When I got hit with a nine-thousand-dollar bill, I transferred the entire balance to a zero-percent introductory credit card for eighteen months to buy time.'
+22	229.711	8.567	This plan sounds sophisticated on paper, but in the financial world, it is equivalent to drinking saltwater to survive dehydration.
+23	239.028	7.391	Here is the critical distinction: medical debt is legally classified as non-consumer, uncollateralized debt.
+24	247.169	15.774	Under historic reforms implemented by the Consumer Financial Protection Bureau and the three major credit bureaus—Equifax, Experian, and TransUnion—unpaid medical debt under five hundred dollars cannot appear on your credit report.
+25	263.692	10.743	Furthermore, paid medical collections are immediately deleted from your credit history, and medical debt must age an entire year before credit reporting even begins.
+26	275.186	11.13	Medical debt collectors are strictly governed by the Fair Debt Collection Practices Act and cannot seize your vehicle or primary home over an unadjudicated hospital bill.
+27	287.066	10.047	The moment Arthur swipes a Visa or Mastercard to clear that ten-thousand-dollar hospital balance, he performs a voluntary legal transmutation.
+28	297.863	5.324	He converts protected medical debt into high-interest revolving consumer credit debt.
+29	303.936	9.707	All special medical debt protections evaporate instantly. The credit card company does not care about hospital billing errors or medical hardship.
+30	314.393	11.803	If Arthur fails to pay off the ten thousand eight hundred dollars within the eighteen-month zero-percent promotional window, the interest rate snaps to twenty-nine point nine nine percent APR.
+31	326.946	12.136	Compounded interest turns a ten-thousand-dollar hospital bill into a twenty-two-thousand-dollar credit card nightmare, backed by aggressive commercial collections and direct wage garnishment.
+32	339.832	6.85	Plan Number Two is an unmitigated disaster that turns a dispute into a permanent financial chain.
+33	347.432	8.706	This is why Arthur consults The Consumer Defense Playbook, our complete companion legal and billing guide linked in the pinned comment below.
+34	356.888	12.617	Inside the playbook, Arthur finds the exact procedural scripts, billing dispute templates, and federal statutory notices needed to dismantle healthcare invoices without touching his savings.
+35	370.255	6.246	Now let us examine Viewer Plan Number Three: The Ghost Strategy, or Ignoring the Bill Completely.
+36	377.251	11.584	Viewer Jason suggests: 'Just throw the letters in the trash. Never answer their calls. Medical debt drops off your credit report after seven years anyway, so just wait them out.'
+37	389.585	5.163	Ignoring an aggressive debt collector is playing Russian roulette with your bank account.
+38	395.498	9.552	In thirty-two states across America, non-profit and private hospital systems maintain standing retainers with regional collection law firms.
+39	405.8	11.027	When an account balance exceeds two thousand dollars and sits unanswered for one hundred and eighty days, the collection agency files a civil lawsuit in local county court.
+40	417.578	10.48	A process server drops a formal court summons on Arthur's doorstep. If Arthur ignores the summons, the judge enters an automatic Default Judgment against him.
+41	428.808	7.035	A civil court judgment transforms an disputed invoice into an enforceable judicial writ of execution.
+42	436.593	9.754	The debt collector can now legally garnish up to twenty-five percent of Arthur's weekly disposable paycheck directly from his employer's payroll department.
+43	447.096	10.486	In many jurisdictions, they can execute a bank levy, instantly freezing Arthur's checking account and seizing every dollar down to the statutory exemption limit.
+44	458.332	11.304	In addition, the judgment attaches as a real estate judgment lien against Arthur's home, compounding at statutory post-judgment interest rates of eight to ten percent annually.
+45	470.386	8.068	Arthur cannot sell or refinance his house for the next ten to twenty years without paying off the judgment with accumulated interest.
+46	479.204	12.451	This proves Rule Number Two: Silence is treated as an admission of liability in the civil justice system. Never ignore a summons, and always dispute in writing within thirty days.
+47	492.405	10.355	Now we arrive at the plans that actually counter-punch the system. Let us test Viewer Plan Number Four: The CPT Code Itemization and Chargemaster Audit.
+48	503.51	12.739	Viewer Sarah writes: 'Never pay the summary invoice. Demand an itemized bill with CPT and HCPCS codes, then audit every line against the hospital's public Chargemaster.'
+49	516.999	12.24	Arthur follows the playbook: he sends a formal written request via certified mail demanding a comprehensive itemized billing statement with standardized medical procedure codes.
+50	529.989	10.413	Ten days later, a thirteen-page document arrives in Arthur's mailbox. For the first time, the curtain is pulled back on the hospital's hidden pricing machine.
+51	541.152	12.951	Arthur compares the codes on his statement against the American Medical Association's Current Procedural Terminology database and the Centers for Medicare and Medicaid Services reimbursement schedules.
+52	554.852	11.363	The first blatant deception appears on page two: Pharmacy Item J0131, generic acetaminophen—two standard five-hundred-milligram Tylenol pills.
+53	566.966	11.394	The hospital billed Arthur's account forty-eight dollars and fifty cents for two pills you can purchase at a pharmacy counter for six cents—a markup of over forty thousand percent.
+54	579.11	14.741	The second deception is an industry practice known as Unbundling. The hospital billed eighty-five dollars for a plastic tongue depressor, one hundred and twenty dollars for sterile latex gloves, and seventy dollars for an ice pack.
+55	594.601	9.865	Under federal billing regulations, routine surgical and exam supplies are legally required to be bundled into the general emergency room room fee.
+56	605.216	3.792	Billing them as separate line items is illegal double-billing.
+57	609.758	9.298	The third and most lucrative deception is Upcoding: the deliberate misrepresentation of medical complexity to trigger higher reimbursement.
+58	619.807	12.639	On Arthur's invoice, the hospital billed CPT Code 99285: Emergency Department Visit, Level 5, High Severity and Immediate Threat to Life.
+59	633.195	14.641	CPT 99285 carries a facility charge of four thousand eight hundred and ninety dollars. It is strictly reserved for heart attacks, gunshot trauma, and acute respiratory failure.
+60	648.586	10.001	Arthur walked into the emergency room on his own two feet with a sprained ankle. The physician examined him for eight minutes and ordered a single ankle x-ray.
+61	659.337	17.481	Under medical coding guidelines, Arthur's visit qualifies as CPT Code 99282: Emergency Department Visit, Level 2, Low to Moderate Severity, which carries an average reimbursement of four hundred and ten dollars.
+62	677.568	14.445	Arthur highlights the coding violations, attaches the Medicare Allowable Amount benchmarks, and files a formal dispute letter alleging fraudulent upcoding and billing unbundling under federal False Claims Act guidelines.
+63	692.763	12.897	The hospital billing supervisor reviews Arthur's documented audit. Knowing that upcoding audits can trigger federal compliance audits, the hospital immediately strips the fraudulent charges.
+64	706.41	10.427	Arthur's bill plummets from ten thousand eight hundred and fifty dollars down to one thousand six hundred and twenty dollars—an instant reduction of eighty-five percent.
+65	717.587	9.939	Plan Number Four works remarkably well. But what if you cannot afford sixteen hundred dollars? What if you want the bill reduced to exactly zero dollars?
+66	728.275	9.953	That brings us to the nuclear legal option: Viewer Plan Number Five: Invoking Internal Revenue Code Section 501(r) Charity Care.
+67	738.979	14.083	Viewer David writes: 'Over half of all hospitals in America are registered non-profit charities. They are legally required by the federal government to erase your bill to zero if you meet income guidelines.'
+68	753.812	13.594	This is not a loophole. It is a strict federal statute created under the Patient Protection and Affordable Care Act, codified in Title 26 of the United States Code, Section 501(r).
+69	768.156	11.049	Across the United States, nearly sixty percent of all community hospitals operate as tax-exempt charitable institutions under Section 501(c)(3).
+70	779.954	16.284	In exchange for exemption from local property taxes, state corporate taxes, and federal income taxes—saving these hospital conglomerates billions of dollars every single year—the federal government imposes a strict quid pro quo.
+71	796.989	14.668	Under Section 501(r)(4), every non-profit hospital is legally mandated to establish, publish, and widely publicize a formal Financial Assistance Policy, commonly known as Charity Care.
+72	812.406	18.87	Under standard 501(r) guidelines, any patient residing in a household earning below two hundred percent of the Federal Poverty Level is legally entitled to a one hundred percent complete write-off of all emergency and medically necessary hospital charges.
+73	832.026	13.626	For a single individual in 2024, two hundred percent of the Federal Poverty Level is thirty thousand one hundred and twenty dollars. For a family of four, it is sixty-two thousand four hundred dollars.
+74	846.402	17.02	Furthermore, most non-profit hospital policies extend sliding-scale discounts of seventy to ninety percent for households earning up to three hundred or four hundred percent of the poverty line—covering families earning up to one hundred and twenty-four thousand dollars.
+75	864.172	12.885	Hospital billing departments intentionally hide these Charity Care application forms behind obscure website menus, while aggressive third-party billing agencies aggressively pursue full payment.
+76	877.807	9.098	Arthur downloads the hospital's official Financial Assistance Policy application using the step-by-step guidance in our Consumer Defense Playbook.
+77	887.655	9.018	He compiles his last two paystubs, his previous year's W-2 tax transcript, and his utility bill to prove local residency.
+78	897.422	11.3	He attaches a certified cover letter citing Internal Revenue Code Section 501(r) and Treasury Regulation 1.501(r)-6.
+79	909.473	15.21	Under Treasury Regulation 1.501(r)-6, the moment a patient submits an application for financial assistance, the hospital is strictly prohibited from engaging in any Extraordinary Collection Actions.
+80	925.432	11.389	The hospital cannot report the account to credit bureaus, cannot sell the debt to third-party collectors, and cannot initiate judicial proceedings while the application is under review.
+81	937.571	16.691	If a non-profit hospital systematically fails to honor its Charity Care obligations, it risks revocation of its tax-exempt 501(c)(3) status—an existential financial penalty worth tens of millions of dollars.
+82	955.012	10.494	Fourteen days after mailing his certified 501(r) packet, Arthur receives an official certified letter from the hospital's Chief Financial Officer.
+83	966.256	10.566	The letter contains a single-page settlement confirmation: Account Balance: Zero Dollars and Zero Cents. Total Patient Responsibility: Zero Dollars.
+84	977.572	6.84	The entire ten-thousand-eight-hundred-and-fifty-dollar medical invoice is completely erased from existence.
+85	985.162	18.387	This locks in Rule Number Three of the Healthcare Monopoly: Never negotiate a Chargemaster hospital bill until you verify the hospital's tax-exempt status under Section 501(c)(3). If they are non-profit, Section 501(r) is your legal shield.
+86	1004.299	6.623	Arthur walks away with zero debt, his credit score unscathed, and his hard-earned savings intact.
+87	1011.672	7.053	Nate, on the other hand, is still mailing fifty-dollar checks every month for a debt that should have been erased on Day One.
+88	1019.474	8.36	Now, we want to hear from you. Have you ever received an absurd or predatory medical bill from a hospital or outpatient surgery center?
+89	1028.584	11.909	What was the most outrageous line-item fee they tried to charge you? Did you use an itemized CPT code audit, insurance appeal, or 501(r) Charity Care to beat them?
+90	1041.243	11.815	Drop your exact hospital billing story in the comments below. Our team reads every submission, and we will highlight the top viewer defense strategies in our upcoming community breakdown.
+91	1053.808	16.25	Next week, we turn our simulation engine toward the most ruthless private corporate entities in American suburban real estate: Episode Number Nine: How Homeowners Associations Legally Foreclose on Paid-Off Houses Over a Fifty-Dollar Fine.
+92	1070.807	12.219	We will track a minute-by-minute ninety-day simulation showing how an unraked lawn or missed mailbox fee triggers attorney lien mills that legally seize half-million-dollar family homes.
+93	1083.776	8.206	Hit subscribe, download The Consumer Defense Playbook in the pinned comment below, and never pay a fake hospital invoice again.

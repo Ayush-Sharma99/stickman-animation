@@ -1,0 +1,117 @@
+cue	img	text	pos	extra
+# Video 03: Why US Hospital Bills Have Fake Prices (Stickman Systems, Slate Blueprint Look with Camera Motion)
+01.0	img/s01.jpg	0.9% SALINE (1 LITER)	tr!	zoom:in
++01.4	elements/cut/01.png		auto,0.30	rise
+02.0	img/s02.jpg	COST: $1.40	auto,0.25	
+03.0	img/s02.jpg	BILL: $712.00	tr!	zoom:in
++03.4	elements/cut/02.png		0.75,0.5,0.40	slideL
+04.0	img/s03.jpg	+50,000% MARKUP	auto,0.30	
++04.2	elements/cut/03.png		0.5,0.5,0.35	pop
+05.0	card	IN ANY OTHER INDUSTRY|THIS IS ILLEGAL.	big	
+06.0	img/s03.jpg	STANDARD PROCEDURE	tr!	
+07.0	img/s04.jpg	RANSOM NOTE PRICING	auto,0.30	zoom:out
+08.0	card	NOT GREEDY DOCTORS.|NOT OVERHEAD.	big	
+09.0	card	THE PRICES|ARE NOT REAL.	big	
+10.0	img/s05.jpg	AN INSTITUTIONAL FICTION	tr!	zoom:in
++10.4	elements/cut/04.png		0.5,0.5,0.40	pop
+11.0	card	THE FORENSIC ANATOMY|OF THE CHARGEMASTER	big	
+12.0	img/s06.jpg	ONE TYLENOL: $89.00	tr!	zoom:in
++12.4	elements/cut/05.png		auto,0.30	pop
+13.0	card	THE CHARGEMASTER	big	
+14.0	img/s07.jpg	50,000 LINE ITEMS	auto,0.30	zoom:in
+15.0	img/s07.jpg	PROPRIETARY ALGORITHM	tr!	
+16.0	card	A SHOCKING TRUTH	big	
+17.0	img/s08.jpg	NOT COST. NOT VALUE.	auto,0.30	
+18.0	img/s09.jpg	1960: COMMUNITY UTILITY	auto,0.25	
+19.0	img/s09.jpg	COST + 10% MARGIN	tr!	
++19.4	elements/cut/06.png		auto,0.30	slideL
+20.0	img/s09.jpg	1960: $25 PER DAY	auto,0.30	
+21.0	card	THE BIRTH OF|PRIVATE INSURANCE	big	
+22.0	img/s10.jpg	THE CONGLOMERATES	auto,0.30	zoom:out
++22.4	elements/cut/07.png		0.5,0.5,0.35	slideR
+23.0	img/s11.jpg	THE DEMAND LETTER	auto,0.25	
+24.0	img/s11.jpg	EXCLUSIVE 60% DISCOUNT	tr!	
+25.0	img/s12.jpg	PRICING MECHANISM BROKEN	auto,0.30	zoom:in
+26.0	card	ACT II: THE THREE GEARS	big	
+27.0	img/s13.jpg	FINANCIAL IMPOSSIBILITY	tr!	
+28.0	card	GEAR 1: THE FAKE DISCOUNT	big	
+29.0	img/s14.jpg	THE DEPARTMENT STORE TRAP	auto,0.25	
+30.0	img/s14.jpg	COAT COST: $30	auto,0.25	
+31.0	img/s14.jpg	FAKE TAG: $500	tr!	zoom:in
+32.0	img/s14.jpg	VIP SALE: 90% OFF	auto,0.30	
++32.4	elements/cut/08.png		0.5,0.5,0.35	pop
+33.0	card	YOU SAVED NOTHING.	big	
+34.0	img/s14.jpg	THE CLEARANCE ILLUSION	auto,0.25	
+35.0	card	THE SAME TRICK|FOR HEALTHCARE	big	
+36.0	img/s15.jpg	MULTIPLY BY FOUR	tr!	
++36.4	elements/cut/09.png		0.5,0.5,0.35	pop
+37.0	img/s15.jpg	$200 MRI -> $1,000 STICKER	auto,0.30	zoom:in
+38.0	img/s16.jpg	60% DISCOUNT = $400	tr!	
+39.0	img/s16.jpg	HOSPITAL DOUBLES MONEY	auto,0.25	
+40.0	img/s16.jpg	PITCHING TO HR DIRECTORS	auto,0.30	
+41.0	card	EVERYONE CELEBRATES.	big	
+42.0	img/s17.jpg	EXCEPT THE PATIENT	tr!	zoom:out
+43.0	card	THE MID-VIDEO RE-HOOK	big	
+44.0	img/s18.jpg	THE UNINSURED PENALTY	auto,0.30	zoom:in
+45.0	img/s18.jpg	THE FAKE PRICE ENFORCED	tr!	
+46.0	card	GEAR 2: UPCODING	big	
+47.0	img/s19.jpg	CPT CODES (AMA)	auto,0.25	
+48.0	img/s19.jpg	FIVE SEVERITY TIERS	tr!	
+49.0	img/s19.jpg	LEVEL 1 TO LEVEL 5	auto,0.30	
+50.0	card	NORMAL MARKET: LEVEL 2	big	
+51.0	img/s20.jpg	AUTOMATED REVENUE SOFTWARE	auto,0.25	
+52.0	img/s20.jpg	TRIGGER WORDS IN CHARTS	auto,0.30	
+53.0	img/s20.jpg	UPGRADED TO LEVEL 5	tr!	
++53.4	elements/cut/10.png		0.5,0.5,0.35	pop
+54.0	card	UPCODING	big	
+55.0	img/s21.jpg	THE FACILITY FEE TRAP	auto,0.30	zoom:in
++55.4	elements/cut/11.png		0.5,0.5,0.35	rise
+56.0	img/s21.jpg	BILLED TWICE	tr!	
+57.0	img/s21.jpg	LEVEL 5 FEE: $3,500	tr!	
+58.0	card	SAME ICE PACK.|SAME ROOM.	big	
+59.0	img/s21.jpg	MULTIPLIED BY SEVEN	auto,0.25	
+60.0	card	GEAR 3: AMBUSH BILLING	big	
+61.0	img/s22.jpg	THE ELECTIVE SURGERY	auto,0.25	
+62.0	img/s22.jpg	YOU VERIFIED EVERYTHING	auto,0.30	
+63.0	img/s22.jpg	HOSPITAL IN-NETWORK	tr!	
+64.0	card	SURGERY COMPLETE	big	
+65.0	img/s22.jpg	SURPRISE ENVELOPE: $6,400	tr!	zoom:in
++65.4	elements/cut/12.png		0.5,0.5,0.35	slideL
+66.0	img/s23.jpg	THE OUT-OF-NETWORK ANESTHESIA	auto,0.30	
++66.4	elements/cut/13.png		0.75,0.5,0.35	pop
+67.0	img/s23.jpg	FULL CHARGEMASTER BALANCE	tr!	
+68.0	card	BALANCE BILLING	big	
+69.0	img/s23.jpg	PRIVATE EQUITY ACQUISITIONS	auto,0.28	
+70.0	card	ANY ARBITRARY NUMBER	big	
+71.0	img/s24.jpg	UNCONSCIOUS ON THE TABLE	auto,0.25	zoom:in
+72.0	img/s24.jpg	CAPTIVE CONSUMER	tr!	
++72.2	elements/cut/14.png		0.5,0.5,0.40	pop
+73.0	card	ACT III: THE CLIMAX	big	
+74.0	card	WHAT HAPPENS WHEN|A PATIENT PUSHES BACK?	big	
+75.0	img/s25.jpg	THE SEVEN MAGIC WORDS	tr!	
++75.4	elements/cut/15.png		0.5,0.5,0.40	rise
+76.0	img/s26.jpg	BALANCE DROPS -60%	auto,0.30	zoom:out
++76.4	elements/cut/16.png		0.5,0.5,0.35	pop
+77.0	img/s26.jpg	SUMMARY BILL OPAQUE	tr!	
+78.0	card	FEDERAL COMPLIANCE RULES	big	
+79.0	img/s26.jpg	PHANTOM CHARGES UNRAVEL	auto,0.25	
+80.0	card	AUDITED ABSURDITIES	big	
+81.0	img/s27.jpg	$89 FOR ONE IBUPROFEN	auto,0.30	
+82.0	img/s27.jpg	$45 TO HOLD YOUR BABY	tr!	zoom:in
++82.4	elements/cut/17.png		0.5,0.5,0.35	rise
+83.0	img/s28.jpg	CANNOT SURVIVE AUDIT	auto,0.25	
+84.0	img/s28.jpg	COURTESY ADJUSTMENT SLICED	tr!	
+85.0	img/s29.jpg	PRICE TRANSPARENCY RULE	auto,0.30	
+86.0	img/s29.jpg	75% HOSPITALS NON-COMPLIANT	tr!	zoom:in
++86.4	elements/cut/18.png		0.5,0.5,0.35	pop
+87.0	img/s29.jpg	BLOCKED GOOGLE BOTS	auto,0.25	
+88.0	card	ACT IV: THE PAYOFF	big	
+89.0	img/s30.jpg	AN OPENING BID	auto,0.30	
+90.0	card	THREE FORENSIC TOOLS	big	
+91.0	img/s31.jpg	TOOL 1: CPT AUDIT HOLD	auto,0.28	zoom:in
++91.4	elements/cut/19.png		0.5,0.5,0.35	slideL
+92.0	img/s32.jpg	TOOL 2: 120% MEDICARE	auto,0.30	
+93.0	img/s33.jpg	TOOL 3: 501(r) CHARITY CARE	tr!	zoom:in
++93.4	elements/cut/20.png		0.5,0.5,0.35	pop
+94.0	card	NOT A MORAL OBLIGATION	big	
+95.0	img/s34.jpg	EPISODE 04 TEASER	auto,0.25	zoom:out

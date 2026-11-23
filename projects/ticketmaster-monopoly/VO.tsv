@@ -1,0 +1,93 @@
+id	start	dur	text
+01	0.0	2.319	It is nine fifty-nine on a Friday morning.
+02	3.069	9.362	You and your friend Nate sit at your kitchen table with two laptops open, waiting for tickets to go on sale for your favorite band's summer amphitheater tour.
+03	13.281	5.926	The promotional tour poster on the wall clearly advertises: Tickets starting at sixty dollars.
+04	20.057	9.578	At exactly ten zero zero, the digital screen flashes. A spinning circle appears: You are in line. There are fourteen thousand people ahead of you.
+05	30.485	9.564	Eight minutes later, a chime rings. Nate gets through. Two sixty-dollar seats in Section 204 are placed into his digital shopping cart.
+06	40.898	4.534	Subtotal: one hundred and twenty dollars. Nate smiles and clicks Checkout.
+07	46.283	9.933	A flashing crimson timer appears in the corner of the screen: You have two minutes and fifty-nine seconds to complete your purchase or your tickets will be released.
+08	57.065	1.388	Then, the invoice loads.
+09	59.403	17.529	Convenience Fee: twenty-four dollars and fifty cents per ticket. Facility Charge: seven dollars per ticket. Order Processing Fee: six dollars and fifty cents. Electronic Delivery Fee: four dollars to email a PDF barcode to your own inbox.
+10	77.782	7.016	Your one-hundred-and-twenty-dollar cart instantly balloons to one hundred and eighty-six dollars and fifty cents.
+11	85.647	5.771	That is a fifty-five percent unadvertised markup tacked on at the final second of checkout.
+12	92.368	11.793	You get angry. You tell Nate to close the browser. You grab your car keys and say: We're driving straight to the venue's physical box office to buy physical paper tickets at face value.
+13	105.011	6.81	Twenty minutes later, you walk up to the arena box office window. The metal shutter is pulled halfway down.
+14	112.671	11.664	A printed sign is taped to the glass: Box office open only on event days, two hours prior to showtime. All advance sales must be purchased online through Ticketmaster.
+15	125.286	10.641	And if the window is open, the clerk types into the exact same Ticketmaster software and charges you the exact same twenty-four-dollar service fee right to your face.
+16	136.877	1.374	You are completely trapped.
+17	139.301	4.567	Welcome to the forensic simulation of the world's most hated corporation.
+18	144.918	9.33	To understand why buying a concert ticket feels like being mugged in broad daylight, you have to understand the fundamental lie of live entertainment.
+19	155.098	9.265	Most people believe Ticketmaster is a greedy tech company that gouges fans because of poor management, clunky servers, and corporate arrogance.
+20	165.213	4.272	That is completely false. Ticketmaster is not a ticketing company.
+21	170.435	3.23	Ticketmaster is a specialized corporate blame shield.
+22	174.715	12.351	They do not get paid billions of dollars to sell tickets. They get paid billions of dollars specifically to absorb one hundred percent of your public hatred so everyone else can get rich in secret.
+23	188.016	3.145	First problem: The Secret Fee-Rebate Kickback Loop.
+24	192.11	5.025	Let's follow where that twenty-four-dollar-and-fifty-cent Convenience Fee actually goes.
+25	197.985	6.961	If you ask a casual concertgoer, they assume Ticketmaster pockets all twenty-four dollars and fifty cents.
+26	205.796	13.043	In reality, Ticketmaster's actual operating cost to process that digital ticket—the server bandwidth, the payment gateway, and the fraud verification—is less than one dollar and fifty cents.
+27	219.688	2.567	What happens to the remaining twenty-three dollars?
+28	223.206	11.269	Under confidential master service agreements, Ticketmaster quietly kicks back between fifty and seventy percent of that convenience fee directly to the venue and the promoter.
+29	235.424	11.013	That's real. When you pay twenty-four dollars in junk fees, twelve to sixteen dollars is wired directly back into the bank account of the arena where the show is taking place.
+30	247.387	4.44	Why would venues and artists set up such a bizarre, deceptive mechanism?
+31	252.677	3.578	Because of behavioral economics: The Split-Price Illusion.
+32	257.205	8.231	If a rock band prints on their poster: Tickets: Ninety-Five Dollars, fans scream that the artist has sold out and become greedy.
+33	266.286	8.52	So the band and the promoter advertise the ticket for sixty dollars. The fan feels respected and commits emotionally to attending.
+34	275.656	6.319	Then, at the final second of checkout, Ticketmaster slams you with thirty-five dollars of bizarre fees.
+35	282.825	7.244	You curse Ticketmaster. You post an angry tweet calling Ticketmaster a monopoly. But you still love the band.
+36	291.019	9.427	The band walks away with their full eighty-five-dollar payout per fan, the venue gets their secret kickback, and Ticketmaster happily takes the blame.
+37	301.395	21.652	That was the original business model invented in nineteen seventy-six by Fred Rosen, the legendary CEO who built Ticketmaster. Rosen realized that arenas were cash-strapped municipalities. He went to stadium managers and offered them a deal: Give us your exclusive ticketing contract, and we will share our fee revenue with you.
+38	323.897	8.613	Rule Number One: Never blame the platform when the secret kickback goes to the venue. Always follow the rebate, not the sticker price.
+39	333.46	19.429	If you want to see our full forensic breakdown of how to identify which venues kick back fees, plus our exact script for demanding fee-free sales under municipal auditorium laws, Arthur has detailed the step-by-step checklist inside our Consumer Defense Playbook—linked in the pinned comment below.
+40	353.84	11.284	Now, you might ask: If venues and independent artists don't like Ticketmaster's reputation, why don't they just switch to a competitor like SeatGeek, AXS, or Eventbrite?
+41	365.973	4.781	That brings us to the Second Problem: The Retaliatory Exclusivity Lock-In.
+42	371.704	13.142	In two thousand ten, the United States Department of Justice made one of the most disastrous regulatory decisions in modern commercial history: They permitted Ticketmaster to merge with Live Nation.
+43	385.796	9.691	Live Nation was not a software company. Live Nation was the world's largest concert promoter, festival producer, and artist management agency.
+44	396.337	10.82	When Live Nation and Ticketmaster merged, they formed a vertically integrated monopoly with a stranglehold over every single link of the live entertainment supply chain.
+45	408.007	7.256	To see how this trap operates, let's look at the financial math of a major ten-thousand-seat municipal amphitheater.
+46	416.114	7.772	The city-owned amphitheater has a ten-year exclusive ticketing contract with Ticketmaster that is about to expire.
+47	424.736	14.962	A modern, competitive ticketing startup approaches the amphitheater director: We will charge fans only four dollars in fees instead of twenty-four dollars. We have better mobile apps and cleaner user interfaces. Sign with us!
+48	440.547	6.725	The arena director wants to sign the deal. But then, an executive from Live Nation visits the office.
+49	448.222	13.656	The executive delivers a polite, chilling corporate message: If you choose a ticketing partner other than Ticketmaster, Live Nation may find it logistically difficult to route our concert tours to your venue this summer.
+50	462.829	12.146	Consider what that means: Live Nation controls the global touring rights for over four hundred top artists—including U2, Beyoncé, Drake, Blink-182, and Madonna.
+51	475.825	13.909	If that arena director signs with an independent ticketing app, Live Nation doesn't sue them. They simply skip that city, or route every major summer tour to a competing private arena fifty miles down the highway.
+52	490.583	16.801	If the amphitheater loses twenty Live Nation summer concerts, they lose five million dollars in parking fees, ten million dollars in hot dog and beer concessions, and hundreds of local union jobs. The amphitheater faces immediate bankruptcy.
+53	508.234	13.231	So the arena director signs another ten-year exclusive contract with Ticketmaster. Not because Ticketmaster has good software, but because Live Nation holds their entire concert schedule hostage.
+54	522.415	18.837	That is not a conspiracy theory. In May twenty twenty-four, the United States Department of Justice, alongside thirty state attorneys general, filed an antitrust lawsuit to break up Live Nation and Ticketmaster, formally alleging this exact retaliatory venue-routing scheme!
+55	542.202	3.522	Gear 2: Dynamic Pricing and The Platinum Seat Extortion.
+56	546.574	5.241	Now let's return to Nate's computer screen at ten zero five AM on ticket sale day.
+57	552.666	5.955	Nate watches those two sixty-dollar seats in Section 204 vanish in three seconds.
+58	559.47	9.649	Suddenly, new tickets pop up in the exact same section. But the little blue dots have turned into glowing gold stars labeled: Official Platinum Seats.
+59	569.969	7.648	Nate clicks on the gold star. The price is no longer sixty dollars. The price is three hundred and eighty-five dollars!
+60	578.567	7.142	What is an Official Platinum Seat? Does it come with backstage passes? Free drinks? A meet-and-greet with the lead singer?
+61	586.559	4.688	No. It is the exact same plastic folding chair with the exact same view.
+62	592.197	7.95	Under Ticketmaster's Official Platinum program, algorithms track the number of active users in the digital waiting room in real time.
+63	600.996	13.705	If two hundred thousand people are queued for twenty thousand seats, the algorithm automatically reclassifies standard face-value tickets as Platinum, surging the base price by three hundred to six hundred percent.
+64	615.651	9.305	Ticketmaster claims this dynamic surge pricing is designed to protect fans from scalpers by pricing tickets at true market clearing value.
+65	625.806	5.878	That is the second corporate lie. Because of Gear 3: The Double-Dipping Resale Cartel.
+66	632.634	5.507	Ticketmaster does not fight scalpers. Ticketmaster is the largest scalper in the world.
+67	639.191	11.216	When a professional scalper uses automated bots to snap up forty face-value tickets, Ticketmaster collects twenty-four dollars in service fees on the primary transaction.
+68	651.257	10.472	Then, that same scalper immediately lists those forty tickets for sale on Ticketmaster's verified secondary resale exchange at five times face value.
+69	662.579	6.032	When a desperate fan buys that resold ticket for three hundred dollars, what does Ticketmaster do?
+70	669.461	12.07	Ticketmaster charges the seller a ten percent resale commission—thirty dollars. And then Ticketmaster charges the buyer an additional fifteen percent buyer fee—forty-five dollars!
+71	682.481	9.832	On a single piece of digital real estate, Ticketmaster collected twenty-four dollars on the primary sale, and seventy-five dollars on the secondary sale.
+72	693.263	10.208	Ticketmaster made nearly one hundred dollars in fees on a sixty-dollar concert ticket that changed hands without a single employee ever leaving their desk!
+73	704.421	17.632	In twenty eighteen, undercover investigative reporters from the CBC and the Toronto Star attended a ticketing convention in Las Vegas. They recorded Ticketmaster sales representatives pitching an invite-only professional broker tool called TradeDesk.
+74	722.904	15.096	Sales reps explicitly assured undercover reporters that Ticketmaster turns a blind eye to brokers using multiple accounts and bots to harvest tickets, because Ticketmaster profits immensely from the secondary resale fees.
+75	738.95	15.493	Rule Number Two: The primary issuer is also the secondary broker. When reselling a ticket generates triple the fee revenue of selling it at face value, artificial scarcity is not a technical glitch; it is an executive mandate.
+76	755.393	3.522	Now we reach the breaking point: Why don't the artists fight back?
+77	759.766	20.126	In nineteen ninety-four, the legendary rock band Pearl Jam stood before the United States Congress. They testified that Ticketmaster was an unlawful monopoly, and they attempted to launch a nationwide stadium tour with ticket prices capped at eighteen dollars and fees capped at one dollar and eighty cents.
+78	780.742	19.048	What happened to Pearl Jam? Their tour collapsed. Ticketmaster pressured venue owners across America to refuse to book them. Pearl Jam was forced to play in outdoor soccer fields, ski slopes, and fairgrounds without adequate staging or security. They were exhausted and financially drained.
+79	800.74	13.124	Thirty years later, in twenty twenty-two, Taylor Swift fans experienced the catastrophic collapse of the Eras Tour verified fan on-sale, triggering a United States Senate Judiciary Committee hearing.
+80	814.714	12.606	Even the biggest cultural icon on planet Earth could not avoid Ticketmaster, because Live Nation owns or exclusively operates over two hundred and sixty-five major venues worldwide.
+81	828.27	6.263	If an artist refuses to play Live Nation venues, they cannot tour in North America. Period.
+82	835.483	5.828	Rule Number Three: Vertical integration turns healthy competition into commercial suicide.
+83	842.261	9.184	So how do analytical consumers beat a rigged monopoly that controls the artists, the venues, the software, and the secondary market?
+84	852.295	9.698	You cannot beat Ticketmaster by refreshing your browser at ten zero zero AM. You beat them by exploiting the structural blind spots in their algorithm.
+85	862.943	3.654	Here are the three forensic counter-rules to protect your wallet:
+86	867.447	30.711	Counter-Rule Number One: The Forty-Eight-Hour Algorithmic Dump. Ticketmaster's dynamic pricing algorithm is terrified of empty seats. Seventy-two to twenty-four hours before showtime, corporate promoters routinely release withheld house seats, production holds, and unpurchased Platinum tickets back into the system at standard face value. If you refuse to buy during the initial on-sale panic and wait until forty-eight hours before showtime, prices frequently drop by fifty to seventy percent.
+87	899.108	22.621	Counter-Rule Number Two: The Independent Venue Circuit. Look beyond Live Nation amphitheaters. Support artists touring independent venues affiliated with the National Independent Venue Association—promoters using ticketing platforms like Dice, which binds tickets cryptographically to your smartphone and bans secondary markups entirely.
+88	922.679	20.433	Counter-Rule Number Three: Direct Artist Presales and Verified Fan Clubs. Never buy from general on-sale queues without an artist presale code. Official artist fan club presales and album-linked codes bypass the general public bot rush and have strict resale restrictions that prevent broker scalping.
+89	944.062	18.231	Now, I want to hear from the live music fans and analytical operators watching this: Have you ever been hit with a fee that cost more than the concert ticket itself? Have you successfully beaten the on-sale queue using box office loopholes, day-of-show drops, or direct-to-fan apps?
+90	963.244	15.488	Drop your exact tactical concert strategy in the comments below. Our production team will review the top five most upvoted viewer strategies, animate them into our simulation engine, and stress-test them in an upcoming follow-up episode!
+91	979.681	14.51	And speaking of predatory consumer traps with hidden fees and deceptive negotiations—wait until you see what happens when you walk into a car dealership finance office with thirty thousand dollars cash in your briefcase.
+92	995.141	4.998	That is the minute-by-minute simulation of Episode Six. I will see you next week.
